@@ -13,7 +13,7 @@ This guide will walk you through the steps to compile an Expo app for Android an
 
 ### Download apk (Android)
 
-1. Download apk [here](remember-it.apk)
+1. Download apk [here](https://uniandes.sharepoint.com/:u:/s/UX614/ETsQvjutnflIpRtOzIbg5gsB9vobsXGNT9Tom6HL768fHA?e=lV95Kn)
 
 2. Move apk to your Android device.
 
